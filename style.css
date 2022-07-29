@@ -10,10 +10,10 @@ img {
     padding: 0px;
 }
 
+.foot {
+    border-radius: 0px;
+}
 
-/* html,
-body {
-    margin: 0;
-    height: 100%;
-    overflow-x: hidden;
-} */
+.margin-remove {
+    margin-bottom: 2px;
+}
