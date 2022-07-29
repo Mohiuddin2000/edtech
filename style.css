@@ -1,0 +1,19 @@
+.margin-img {
+    padding-bottom: 20%;
+}
+
+img {
+    width: 100%;
+}
+
+.padd {
+    padding: 0px;
+}
+
+
+/* html,
+body {
+    margin: 0;
+    height: 100%;
+    overflow-x: hidden;
+} */
